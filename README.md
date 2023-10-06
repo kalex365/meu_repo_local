@@ -1,2 +1,3 @@
-# meu_repo_local
+# Olá, Mundo!
+repo criado para aula.
  
